@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "402617872114",
+    "firebase_url": "https://travelmentics-a199b.firebaseio.com",
+    "project_id": "travelmentics-a199b",
+    "storage_bucket": "travelmentics-a199b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402617872114:android:35bbec3a784c27bc",
+        "android_client_info": {
+          "package_name": "com.example.travelmentic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402617872114-n6mjgm1ppup727nsa7fa9svk5tna7bki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQQJb7wKVSbR2JqwSa5CEYRqCmi2qF-9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402617872114-n6mjgm1ppup727nsa7fa9svk5tna7bki.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
